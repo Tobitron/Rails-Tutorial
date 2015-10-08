@@ -1,7 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+After a 4 month trip through Asia without touching a keyboard I'm going through Michael Hartl's tutorial to get back into the swing of things with Rails.
 
 Things you may want to cover:
 
